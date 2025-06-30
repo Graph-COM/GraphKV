@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the official implementation of paper 'Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models', Haoyu Wang, Peihao Wang, Mufei Li, Shikun Liu, Siqi Miao, Zhangyang Wang, Pan Li.
+This is the official implementation of paper ['Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models'](http://www.arxiv.org/abs/2506.07334), Haoyu Wang, Peihao Wang, Mufei Li, Shikun Liu, Siqi Miao, Zhangyang Wang, Pan Li.
 
 ## STEP 0.1 Environment Setup
 
