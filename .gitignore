@@ -1,4 +1,5 @@
 *.json
 **/datahub/
 **/results/
+**/__pycache__/
 *.parquet
